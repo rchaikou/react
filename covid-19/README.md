@@ -1,3 +1,12 @@
+### Resource
+Youtube: [Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
+
+- axios - to make a call to API
+- react-chartjs-2, chart.js - to create a chart
+- react-countup - awesome count
+- classnames
+- material-ui/core - for styles
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,13 +75,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-
-### Resource
-Youtube: [Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
-
-- axios - to make a call to API
-- react-chartjs-2, chart.js - to create a chart
-- react-countup - awesome count
-- classnames
-- material-ui/core - for styles
