@@ -1,6 +1,8 @@
 ### Resource
 Youtube: [Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
+Application https://kind-brahmagupta-58d6da.netlify.app/
+
 - axios - to make a call to API
 - react-chartjs-2, chart.js - to create a chart
 - react-countup - awesome count
